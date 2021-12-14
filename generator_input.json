@@ -1,0 +1,49 @@
+{
+	"road_names": [
+		"Lapusneanu",
+		"Voievozilor",
+		"Mihai Eminescu",
+		"Tudor Vladimirescu",
+		"Nicolae Balcescu",
+		"Primaverii",
+		"Libertatii",
+		"Trandafirilor",
+		"Garii",
+		"Florilor"
+	],
+	"city_names": [
+		"Iasi",
+		"Bucuresti",
+		"Oradea",
+		"Cluj",
+		"Timisoara",
+		"Brasov",
+		"Constanta"
+	],
+	"event_types": [
+		"Pret benzina",
+		"Accident",
+		"Drum inchis",
+		"Restrictie temporara de viteza",
+		"Eveniment Sportiv",
+		"Update Meteo"
+	],
+	"sports_events": {
+		"football": [
+			"FCSB",
+			"Dinamo",
+			"CFR Cluj",
+			"Poli Iasi",
+			"Read Madrid",
+			"FC Barcelona",
+			"Bayern Munchen"
+		]
+	},
+	"weather_events": [
+		"Averse",
+		"Ninsoare",
+		"Viscol",
+		"Grindina",
+		"Vanturi Puternice"
+	]
+}
